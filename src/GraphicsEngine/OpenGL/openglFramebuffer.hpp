@@ -6,6 +6,9 @@
 #include <deque>
 #include <functional>
 
+/**
+ * This class
+ * */
 class OpenGLFramebuffer {
 public:
     struct CreateInfo {
